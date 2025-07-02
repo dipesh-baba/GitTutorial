@@ -1,0 +1,4 @@
+This is 1st git file created by me
+after stash started to work on other files.
+Directly updating the changes in remote repository
+Bitbucket remote changes updated
